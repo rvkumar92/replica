@@ -1,0 +1,16 @@
+.img-thumbnail{
+    border: 0;
+}
+
+img{
+    margin-left: 30%;
+    height: 10%;
+    width: 35%;
+}
+#logo{
+    display: block;
+}
+.search{
+    width: 60%;
+    margin-left:20%;
+}
